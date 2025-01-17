@@ -42,7 +42,7 @@ const App = () => {
       });
 
       const data = await response.json();
-      console.log('data.transcription 1: ');
+      console.log('data.transcription: ', data.transcription);
       setTranscription(data.transcription);
     } catch (error) {
       console.error("Error stopping recording:", error);
