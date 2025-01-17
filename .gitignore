@@ -4,5 +4,6 @@ VoiceNoteApp/.env
 backend/.env
 backend/uploads/
 VoiceNoteApp/ios/
+VoiceNoteApp/vendor/
 
 .DS_Store
