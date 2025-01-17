@@ -1,0 +1,8 @@
+VoiceNoteApp/node_modules/
+backend/node_modules/
+VoiceNoteApp/.env
+backend/.env
+backend/uploads/
+VoiceNoteApp/ios/
+
+.DS_Store
